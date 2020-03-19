@@ -17,6 +17,8 @@ class api:
     Arguments:
         client_id = Untappd API Client ID
         client_secret = Untappd API Client Secret
+        
+    Using the public API, not the one of Untappd for Business.
     """
     def __init__(self, client_id, client_secret):
         self.url = 'https://api.untappd.com/v4/'
