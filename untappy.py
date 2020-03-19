@@ -3,12 +3,13 @@ pythonUntappd.py - v0.1
 
 Python wrapper for the Untappd API - https://untappd.com/api/docs
 
-Author - Mackenzie Marshall <mackenziemarshall.com>
+Author - Marcel Haas <datascience@marcelhaas.com>
+Original (python2) Author - Mackenzie Marshall <mackenziemarshall.com>
 """
 
 import json
 import urllib
-import urllib2
+# import urllib2
 
 
 class api:
