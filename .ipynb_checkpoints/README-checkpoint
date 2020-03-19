@@ -1,11 +1,11 @@
-pythonUntappd
+untappy
 
 Python Library for Untappd API
 
 Usage:
 
 Initialize api wrapper
-api = pythonUntappd.api("CLIENT_ID","CLIENT_SECRET")
+api = untappy.api("CLIENT_ID","CLIENT_SECRET")
 
 
 Add access token from user
