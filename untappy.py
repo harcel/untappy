@@ -5,6 +5,8 @@ Python wrapper for the Untappd API - https://untappd.com/api/docs
 
 Author - Marcel Haas <datascience@marcelhaas.com>
 Original (python2) Author - Mackenzie Marshall <mackenziemarshall.com>
+
+Intended use: see README
 """
 
 import json
