@@ -1,0 +1,1 @@
+Just to see if gitignore does what it should do.
